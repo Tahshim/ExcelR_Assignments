@@ -45,4 +45,27 @@ Assignment 17
 
 Assignment 18
 
-Assignment 20
+# 🧮 Assignment 20 – Solution
+
+This repository contains the complete solution for **Assignment 20**, implemented in **Python (Jupyter Notebook)**.  
+It includes well-commented code, clear outputs, and explanations for each problem.
+
+---
+
+## 📘 Contents
+- **Assignment20 Solution.ipynb** — Main notebook containing all the solutions.
+- Each question is solved step-by-step with explanations and output cells.
+
+---
+
+## ⚙️ Requirements
+
+Before running the notebook, make sure you have the following installed:
+
+```bash
+Python 3.8+
+Jupyter Notebook
+pandas
+numpy
+matplotlib
+
