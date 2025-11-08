@@ -25,3 +25,6 @@ This repository contains my Python assignments for the ExcelR Data Science cours
 
 ## Assignment 8
 - Completed and executed with proper outputs as per ExcelR requirements.
+
+**Assignment 17:** 
+-Time Series Forecasting using ARIMA and Exponential Smoothing – completed and executed with proper visualizations, evaluation metrics (MAE, RMSE, MAPE), and final comparison as per ExcelR requirements.
